@@ -1,0 +1,11 @@
+name:
+affiliation:
+style: double
+
+reconfig: True 
+
+# Please do not change manually
+cache_dir:
+install_dir:
+source_dir:
+installed: False
