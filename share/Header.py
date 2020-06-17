@@ -10,7 +10,7 @@ header = """
 \\documentclass{%s}
 \\begin{document}
 \\title{%s}
-\\author{%s} \\thanks{%s}
+\\author{%s\\thanks{%s}}
 \\date{\\today}
 \\maketitle
 """ % (cfg["style"], "title", cfg["name"], cfg["affiliation"])
