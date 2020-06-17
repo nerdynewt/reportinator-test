@@ -32,6 +32,7 @@ for files in scriptlist:
 
 
 def scriptmatcher(search_term):
+    search_term=search_term+".py"
     scriptlist = [cfg["install_dir"], "~/.config/reportinator/scripts", "~/.local/share/reportinator", "/usr/share/reportinator" , "../config/scripts", "../share", script+"../scripts", script+"/share"]
     scripts=[]
     for files in scriptlist:
