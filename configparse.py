@@ -1,10 +1,11 @@
-import yaml
 import os
 import sys
+import ruamel.yaml
 
-# script = str(os.path.dirname(os.path.realpath(sys.argv[0])))
+script = str(os.path.dirname(os.path.realpath(sys.argv[0])))
+yaml = ruamel.yaml.YAML() 
 
-configlist = ["~/.config/reportinator/config.yaml", "~/.reportinator.yaml", "/etc/reportinator.yaml", "../config/config.yaml", "config/config.yaml"]
+configlist = ["~/.config/reportinator/config.yaml", "~/.reportinator.yaml", "/etc/reportinator.yaml", "../config/config.yaml", "config/config.yaml", script+"/../config/config.yaml"]
 
 for file in configlist:
     file=os.path.expanduser(file)
@@ -15,10 +16,10 @@ for file in configlist:
         break
 
 with open (configpath, "r") as ymlfile:
-    cfg=yaml.safe_load(ymlfile)
+    cfg=yaml.load(ymlfile)
 
 
-scriptlist = [cfg["install_dir"], "~/.config/reportinator/scripts", "~/.local/share/reportinator", "/usr/share/reportinator" , "../config/scripts", "../share"]
+scriptlist = [cfg["install_dir"], "~/.config/reportinator/scripts", "~/.local/share/reportinator", "/usr/share/reportinator" , "../config/scripts", "../share", script+"../scripts"]
 scripts=[]
 for files in scriptlist:
     if files:
@@ -30,7 +31,7 @@ for files in scriptlist:
 
 
 def scriptmatcher(search_term):
-    scriptlist = [cfg["install_dir"], "~/.config/reportinator/scripts", "~/.local/share/reportinator", "/usr/share/reportinator" , "../config/scripts", "../share", ]
+    scriptlist = [cfg["install_dir"], "~/.config/reportinator/scripts", "~/.local/share/reportinator", "/usr/share/reportinator" , "../config/scripts", "../share", script+"../scripts"]
     scripts=[]
     for files in scriptlist:
         if files:
