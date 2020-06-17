@@ -22,5 +22,4 @@ Temperature (C),Temperature (K),Capacitance (nF),Permittivity ($\epsilon$)
 118,391,910,5.80E-09
 119,392,889,5.66E-09
 120,393,870,5.54E-09
-"fit(lin)",,,
-"graph(2,3)",,,
+"fit(lin)","graph(2,3)",,

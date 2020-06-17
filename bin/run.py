@@ -48,6 +48,7 @@ os.mkdir(cache_dir)
 # os.mkdir(cache_dir+'/process')
 # os.mkdir(cache_dir+'/texts')
 os.mkdir(cache_dir+'/csvs')
+os.remove(cache_dir+'/output.tex')
 
 for file in os.listdir(path):
     ext=os.path.splitext(file)[1]
@@ -75,6 +76,8 @@ for line in lines:
 
 for section in sections[1:]:
     name=section.split('\n', 1)[0][2:]
+    # print("=====" +name)
+    # print(section)
     os.system(pythonpath+" "+ configparse.scriptmatcher(name)+ " \'" + section + "\' --config " + configpath + " >> " +cache_dir+"/"+"output.tex")
 
 os.system(pythonpath+" "+ configparse.scriptmatcher("Footer")+ " --config " + configpath + " >> " +cache_dir+"/"+"output.tex") # Footer
@@ -87,7 +90,7 @@ shutil.rmtree(path+"/csvs", ignore_errors=True, onerror=None)
 # shutil.copy(cfg["cache_dir"]+"/output.bib", path+"/output.bib")
 shutil.copy(configdir+"/layouts/"+documentstyle+".cls", path+"/"+documentstyle+".cls")
 os.chdir(path)
-os.system("pydflatex -x -t -k -o report.tex")
+os.system("pydflatex -x -t -k -o output.tex")
 # for f in glob.glob("*.aux" or "*.bcf" or "*.log" or "*.run.xml" or "*.fls" or ".fbd.latexmk" or ".blg"):
 #     os.remove(f)
 print("Your shit's sorted")

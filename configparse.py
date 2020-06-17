@@ -15,7 +15,7 @@ for file in configlist:
         configpath=file
         configdir=os.path.dirname(file)
         break
-print(configpath)
+# print(configpath)
 with open (configpath, "r") as ymlfile:
     cfg=yaml.load(ymlfile)
 

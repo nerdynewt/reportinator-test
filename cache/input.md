@@ -56,13 +56,10 @@ Our job here, will be to calculate the magnetic moment of the small magnet by fi
 ## Induced Voltage in a photodiode:
 This is relatively simple, we just need to observe what the voltage from the input to the LED is, and how that is affecting the photodiode. The plot is given in the observations section.
 
+
 # Observations
 
-
-
 # Graphs
-
-Some graphs here
 
 
 

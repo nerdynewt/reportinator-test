@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.13)  17 JUN 2020 18:55
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.13)  17 JUN 2020 19:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**report.tex
-(./report.tex
+**output.tex
+(./output.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-05-11> (./double.cls
 Document Class: double 
@@ -565,8 +565,8 @@ File: l3backend-xdvipdfmx.def 2020-05-05 L3 backend support: xdvipdfmx
 \l__pdf_internal_box=\box53
 \g__pdf_backend_object_int=\count400
 \g__pdf_backend_annotation_int=\count401
-) (./report.aux)
-\openout1 = `report.aux'.
+) (./output.aux)
+\openout1 = `output.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
@@ -620,9 +620,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
-(./report.out) (./report.out)
+(./output.out) (./output.out)
 \@outlinefile=\write4
-\openout4 = `report.out'.
+\openout4 = `output.out'.
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
@@ -633,11 +633,11 @@ Package biblatex Info: XeTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout3 = `report.bcf'.
+\openout3 = `output.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'report.bbl' found.
-(./report.bbl)
+Package biblatex Info: ... file 'output.bbl' found.
+(./output.bbl)
 Package biblatex Info: Reference section=0 on input line 3.
 Package biblatex Info: Reference segment=0 on input line 3.
 
@@ -787,42 +787,58 @@ t/10 gt[]\OT1/cmr/m/n/10 )[])[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 gt
 [2
 
 ]
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 83.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 83.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 83.
+
+
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 83.
+
 File: ./9Capacitance9.pdf Graphic file (type pdf)
 <use ./9Capacitance9.pdf>
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
-[3
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
-(./report.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 105.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
+Overfull \hbox (110.73088pt too wide) in paragraph at lines 82--114
+[][] 
+ []
 
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: CD2B407F2623527FCB70397119BFEC94;509
-(rerunfilecheck)             After:  084697E099434E63749F380F2CA4D78D;530.
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
+[3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
+(./output.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 130.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
+Package rerunfilecheck Info: File `output.out' has not changed.
+(rerunfilecheck)             Checksum: 94DBDA20F47242D2E84251E23B12E8BA;483.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 
 LaTeX Warning: There were undefined references.
 
-Package logreq Info: Writing requests to 'report.run.xml'.
-\openout1 = `report.run.xml'.
+Package logreq Info: Writing requests to 'output.run.xml'.
+\openout1 = `output.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 17509 strings out of 479294
- 286177 string characters out of 5879577
- 952832 words of memory out of 5000000
- 34935 multiletter control sequences out of 15000+600000
+ 17506 strings out of 479294
+ 286125 string characters out of 5879577
+ 956785 words of memory out of 5000000
+ 34933 multiletter control sequences out of 15000+600000
  539155 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 48i,7n,45p,955b,745s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 48i,8n,45p,955b,745s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.pdf (3 pages).
+Output written on output.pdf (3 pages).

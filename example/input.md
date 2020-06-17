@@ -56,16 +56,15 @@ Our job here, will be to calculate the magnetic moment of the small magnet by fi
 ## Induced Voltage in a photodiode:
 This is relatively simple, we just need to observe what the voltage from the input to the LED is, and how that is affecting the photodiode. The plot is given in the observations section.
 
+
 # Observations
-
-
 
 # Graphs
 
 
 
 # Conclusion
-We see that experiments turned out to be as expected, I estimate the magnetic moment to be 1.6 A.m$^2$. Substituting: P = 5, $\nu = 14.37 \times 10^6 Hz$ and slope = 0.195 in we also get $g = 1.565$, which is pretty close to it's actual value.
+We see that experiments turned out to be as expected, I estimate the magnetic moment to be 1.6 A.m$^2$. Substituting: P = 5, $\nu = 14.37 \times 10^6 Hz$ and slope = 0.195 in we also get $g = 1.565$, which is pretty close to its actual value.
 
 # Precautions
 - Care must be taken and the knobs adjusted to keep the phase zero at each change in current for ESR

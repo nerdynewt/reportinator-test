@@ -9,6 +9,7 @@
 \usepackage{amsmath}
 \usepackage{float}
 \usepackage{booktabs}
+\usepackage{hyperref}
 \usepackage[table,xcdraw]{xcolor}
 \usepackage[style=science,backend=biber]{biblatex}
 \addbibresource{output.bib}
