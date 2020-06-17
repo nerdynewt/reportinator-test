@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.13)  17 JUN 2020 22:06
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.13)  17 JUN 2020 22:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -819,66 +819,12 @@ Overfull \hbox (110.73088pt too wide) in paragraph at lines 82--114
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
-LaTeX Font Info:    Trying to load font information for TU+pcr on input line 13
-1.
-LaTeX Font Info:    No file TUpcr.fd. on input line 131.
-
-LaTeX Font Warning: Font shape `TU/pcr/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 131.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 130.
 [2]
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 131.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 132.
-[3
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 132.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 130.
 (./output.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 132.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 132.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 130.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 130.
 Package rerunfilecheck Info: File `output.out' has not changed.
 (rerunfilecheck)             Checksum: 94DBDA20F47242D2E84251E23B12E8BA;483.
 
@@ -898,15 +844,15 @@ Package biblatex Warning: Please (re)run Biber on the file:
 Package logreq Info: Writing requests to 'output.run.xml'.
 \openout1 = `output.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 132.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 130.
  ) 
 Here is how much of TeX's memory you used:
- 17731 strings out of 479294
- 291038 string characters out of 5879577
- 959586 words of memory out of 5000000
- 35158 multiletter control sequences out of 15000+600000
+ 17711 strings out of 479294
+ 290531 string characters out of 5879577
+ 956586 words of memory out of 5000000
+ 35140 multiletter control sequences out of 15000+600000
  539155 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  48i,8n,45p,955b,4741s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on output.pdf (3 pages).
+Output written on output.pdf (2 pages).

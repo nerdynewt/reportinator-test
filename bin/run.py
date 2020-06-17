@@ -93,6 +93,6 @@ shutil.rmtree(path+"/csvs", ignore_errors=True, onerror=None)
 shutil.copy(configdir+"/layouts/"+documentstyle+".cls", path+"/"+documentstyle+".cls")
 os.chdir(path)
 os.system("pydflatex -x -t -k -o output.tex")
-for f in glob.glob("*.aux" or "*.bcf" or "*.log" or "*.run.xml" or "*.fls" or ".fbd.latexmk" or ".blg"):
+for f in glob.iglob("*.aux" or "*.bcf" or "*.log" or "*.run.xml" or "*.fls" or ".fbd.latexmk" or ".blg"):
     os.remove(f)
 print("Your shit's sorted")
