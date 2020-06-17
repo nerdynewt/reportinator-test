@@ -1,26 +1,37 @@
 import os
 import sys
 import fileinput
+
+pythonpath = sys.executable
+os.system(pythonpath + " -m pip install -r requirements.txt")
+
 import configparse
 import ruamel.yaml
 
-pythonpath = sys.executable
 configpath=configparse.configpath
 yaml = ruamel.yaml.YAML() 
-
 
 wd=os.getcwd()
 
 with open(configpath) as f:
     config = yaml.load(f)
 
-if sys.argv[1] == "--installed":
-    config["cache_dir"]=sys.argv[2]
-    config["install_dir"]=sys.argv[3]
-    config["source_dir"]=sys.argv[4]
+parser = argparse.ArgumentParser(description='Program for plotting and fitting figures for laTex reportinator 1.0')
+parser.add_argument('--cache', required=False, help="Configure cache directory")
+parser.add_argument('--installed', required=False, help="Configure installed directory")
+parser.add_argument('--source', required=False, help="Configure source directory")
+args = parser.parse_args()
+
+if args.cache:
+    config["cache_dir"]=args.cache
+
+
+if args.source:
+    config["source_dir"]=args.source
+
+if args.installed:
+    config["install_dir"]=args.installed
     config["installed"]=True
-    with open(configpath, "w") as f:
-        yaml.dump(config, f)
     exit()
 
 name = input("Enter name: ")
@@ -44,7 +55,6 @@ if not config["installed"]:
 with open(configpath, "w") as f:
     yaml.dump(config, f)
 
-os.system(pythonpath + " -m pip install -r requirements.txt")
 # config["name"] = input("Enter Name: ")
 # config["affiliation"] = input("Enter Affiliation: ")
 # config["style"] = input("Enter name of the custom class file (Leave blank for default): ")
