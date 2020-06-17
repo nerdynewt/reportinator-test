@@ -41,17 +41,16 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="1">
+  <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>output.bcf</file>
+      <file>report.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>output.bbl</file>
+      <file>report.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
-      <file>blx-unicode.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>standard.bbx</file>
@@ -64,23 +63,23 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="1">
+  <external package="biblatex" priority="5" active="0">
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>output</infile>
+      <infile>report</infile>
     </cmdline>
     <input>
-      <file>output.bcf</file>
+      <file>report.bcf</file>
     </input>
     <output>
-      <file>output.bbl</file>
+      <file>report.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>output.bbl</file>
+      <file>report.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>output.bcf</file>
+      <file>report.bcf</file>
     </requires>
     <requires type="editable">
       <file>output.bib</file>

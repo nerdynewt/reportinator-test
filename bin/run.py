@@ -45,13 +45,7 @@ print("Your LaTeX code is being processed. Please check your source directory")
 # Copying over files
 shutil.rmtree(cache_dir, ignore_errors=True, onerror=None)
 os.mkdir(cache_dir)
-# os.mkdir(cache_dir+'/process')
-# os.mkdir(cache_dir+'/texts')
 os.mkdir(cache_dir+'/csvs')
-try:
-    os.remove(cache_dir+'/output.tex')
-except OSError:
-    pass
 
 for file in os.listdir(path):
     ext=os.path.splitext(file)[1]
@@ -62,6 +56,10 @@ for file in os.listdir(path):
         shutil.copy(path+'/'+file, cache_dir+"/csvs/"+file)
     else:
         shutil.copy(path+'/'+file, cache_dir+"/"+file)
+try:
+    os.remove(cache_dir+'/output.tex')
+except OSError:
+    pass
 
 # Iterating Over Sections and Calling Scripts
 os.system(pythonpath+" "+ configparse.scriptmatcher("Header")+ " --config " + configpath + " >> " +cache_dir+"/"+"output.tex") # Header
@@ -76,10 +74,11 @@ for line in lines:
         sections.append(section)
         section=""
     section+=line
+sections.append(section)
 
 for section in sections[1:]:
     name=section.split('\n', 1)[0][2:]
-    # print("=====" +name)
+    print("Processing " +name)
     # print(section)
     os.system(pythonpath+" "+ configparse.scriptmatcher(name)+ " \'" + section + "\' --config " + configpath + " >> " +cache_dir+"/"+"output.tex")
 

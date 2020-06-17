@@ -24,7 +24,7 @@ where:
 $\nu$ is the wavenumber of the exciting RF wave.  
 For our case, we are keeping the frequency of the RF wave constant, and changing the magnetic field. We will, at some point, reach an energy where the energy is absorbed the most, due to the transiton. We are assuming here that most of the electrons are in the lower energy level, in a normal case.
 
-We here, are attenuating a DC voltage through the coil with a small 50 Hz AC voltage, so that the magnetic field sweeps from $I_{DC}$-$I_{AC max}$ to $I_{DC}$+$I_{AC max}$. This will contain the absorbance energy.
+We here, are attenuating a DC voltage through the coil with a small 50 Hz AC voltage, so that the magnetic field sweeps from $I_{DC}$-$I_{AC max}$ to $I_{DC}$+$I_{AC max}$. This will contain the absorbance energy. \cite{Da_2015}
 
 $$ H_0 = \frac{2\sqrt{2}H}{P}Q $$
 $$ H=\frac{32\pi n}{10\sqrt{125}a}I $$
@@ -69,4 +69,6 @@ We see that experiments turned out to be as expected, I estimate the magnetic mo
 # Precautions
 - Care must be taken and the knobs adjusted to keep the phase zero at each change in current for ESR
 - The magnet must be dropped as vertically as possible
+
+
 # References

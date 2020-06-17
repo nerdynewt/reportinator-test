@@ -16,5 +16,681 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Da_2015}{article}{}
+      \name{author}{6}{}{%
+        {{hash=8cb50a1546f0f71fae88f0ff1536c123}{%
+           family={Da},
+           familyi={D\bibinitperiod},
+           given={Peimei},
+           giveni={P\bibinitperiod}}}%
+        {{hash=a9625aa1243aa91c53cbf9c91c43804a}{%
+           family={Cha},
+           familyi={C\bibinitperiod},
+           given={Mingyang},
+           giveni={M\bibinitperiod}}}%
+        {{hash=59cdbdda75cea8dcfe39113de08d0dee}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Lu},
+           giveni={L\bibinitperiod}}}%
+        {{hash=659a719da3567d161289136e0928e3c8}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yizheng},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=cf992a7daf090ecd7ad3763e448f3c19}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Zhong-Sheng},
+           giveni={Z\bibinithyphendelim S\bibinitperiod}}}%
+        {{hash=808c282e6549333edfc6684a97670e0f}{%
+           family={Zheng},
+           familyi={Z\bibinitperiod},
+           given={Gengfeng},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society ({ACS})}%
+      }
+      \strng{namehash}{40d57c3eb453d10b85af8d1382c31363}
+      \strng{fullhash}{ba48160b49ef215d468d77d84e98291b}
+      \strng{bibnamehash}{40d57c3eb453d10b85af8d1382c31363}
+      \strng{authorbibnamehash}{40d57c3eb453d10b85af8d1382c31363}
+      \strng{authornamehash}{40d57c3eb453d10b85af8d1382c31363}
+      \strng{authorfullhash}{ba48160b49ef215d468d77d84e98291b}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nano Letters}
+      \field{month}{4}
+      \field{number}{5}
+      \field{title}{High-Performance Perovskite Photoanode Enabled by Ni Passivation and Catalysis}
+      \field{volume}{15}
+      \field{year}{2015}
+      \field{pages}{3452\bibrangedash 3457}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1021/acs.nanolett.5b00788
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021%2Facs.nanolett.5b00788
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021%2Facs.nanolett.5b00788
+      \endverb
+    \endentry
+    \entry{Hisatomi_2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=978f51ac32e35989ae39172406c37637}{%
+           family={Hisatomi},
+           familyi={H\bibinitperiod},
+           given={Takashi},
+           giveni={T\bibinitperiod}}}%
+        {{hash=35c9f98d59fefb54d2609e8cd4ec897e}{%
+           family={Kubota},
+           familyi={K\bibinitperiod},
+           given={Jun},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d717bb619ab2e18780f423d6c722312a}{%
+           family={Domen},
+           familyi={D\bibinitperiod},
+           given={Kazunari},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry ({RSC})}%
+      }
+      \strng{namehash}{6cd2070ef757857db4c49621d9ec65dc}
+      \strng{fullhash}{4de1521d30758b950b9cf739fcc8bac9}
+      \strng{bibnamehash}{4de1521d30758b950b9cf739fcc8bac9}
+      \strng{authorbibnamehash}{4de1521d30758b950b9cf739fcc8bac9}
+      \strng{authornamehash}{6cd2070ef757857db4c49621d9ec65dc}
+      \strng{authorfullhash}{4de1521d30758b950b9cf739fcc8bac9}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Chem. Soc. Rev.}
+      \field{month}{1}
+      \field{number}{22}
+      \field{title}{Recent advances in semiconductors for photocatalytic and photoelectrochemical water splitting}
+      \field{volume}{43}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{7520\bibrangedash 7535}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1039/c3cs60378d
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1039%2Fc3cs60378d
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1039%2Fc3cs60378d
+      \endverb
+    \endentry
+    \entry{Jin_2014}{article}{}
+      \name{author}{6}{}{%
+        {{hash=bb687b4404472c334bebf0bb6522d834}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Jian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=d8a8e0410d2acc5aea2492bc8afc4d01}{%
+           family={Walczak},
+           familyi={W\bibinitperiod},
+           given={Karl},
+           giveni={K\bibinitperiod}}}%
+        {{hash=297c0aa8b9b09a0ab2b045d678b7b41e}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Meenesh\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4e0d8137a5639121df4edf08fccf5dcd}{%
+           family={Karp},
+           familyi={K\bibinitperiod},
+           given={Chris},
+           giveni={C\bibinitperiod}}}%
+        {{hash=1037cf457b3e39b1c8933300305905ca}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Nathan\bibnamedelima S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=76ebbd0c515559e3c8043123e48232d7}{%
+           family={Xiang},
+           familyi={X\bibinitperiod},
+           given={Chengxiang},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Royal Society of Chemistry ({RSC})}%
+      }
+      \strng{namehash}{03d73516326df45ff0525191b7c81099}
+      \strng{fullhash}{56dd27f016485d87a03d23515b1187d7}
+      \strng{bibnamehash}{03d73516326df45ff0525191b7c81099}
+      \strng{authorbibnamehash}{03d73516326df45ff0525191b7c81099}
+      \strng{authornamehash}{03d73516326df45ff0525191b7c81099}
+      \strng{authorfullhash}{56dd27f016485d87a03d23515b1187d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Energy Environ. Sci.}
+      \field{number}{10}
+      \field{title}{An experimental and modeling/simulation-based evaluation of the efficiency and operational performance characteristics of an integrated, membrane-free, neutral {pH} solar-driven water-splitting system}
+      \field{volume}{7}
+      \field{year}{2014}
+      \true{nocite}
+      \field{pages}{3371\bibrangedash 3380}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1039/c4ee01824a
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1039%2Fc4ee01824a
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1039%2Fc4ee01824a
+      \endverb
+    \endentry
+    \entry{Hoang_2016}{article}{}
+      \name{author}{5}{}{%
+        {{hash=7e2ac2df7b199e381634254b132a6e1a}{%
+           family={Hoang},
+           familyi={H\bibinitperiod},
+           given={Minh\bibnamedelima Tam},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=7ec283c8489f5c305e66e2863d06f908}{%
+           family={Pham},
+           familyi={P\bibinitperiod},
+           given={Ngoc\bibnamedelima Duy},
+           giveni={N\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=032474be17daac55afde806c3a27ee30}{%
+           family={Han},
+           familyi={H\bibinitperiod},
+           given={Ji\bibnamedelima Hun},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=8fb635782c288400919a3011c00998b3}{%
+           family={Gardner},
+           familyi={G\bibinitperiod},
+           given={James\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6e5805f53d7be46efad7dd2367edcae7}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={Ilwhan},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society ({ACS})}%
+      }
+      \strng{namehash}{1fe5ee48c068685ae729b6c6df714f53}
+      \strng{fullhash}{1646c01698d60009a7037be7109b6df6}
+      \strng{bibnamehash}{1646c01698d60009a7037be7109b6df6}
+      \strng{authorbibnamehash}{1646c01698d60009a7037be7109b6df6}
+      \strng{authornamehash}{1fe5ee48c068685ae729b6c6df714f53}
+      \strng{authorfullhash}{1646c01698d60009a7037be7109b6df6}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ACS} Applied Materials {\&} Interfaces}
+      \field{month}{5}
+      \field{number}{19}
+      \field{title}{Integrated Photoelectrolysis of Water Implemented On Organic Metal Halide Perovskite Photoelectrode}
+      \field{volume}{8}
+      \field{year}{2016}
+      \true{nocite}
+      \field{pages}{11904\bibrangedash 11909}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1021/acsami.6b03478
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021%2Facsami.6b03478
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021%2Facsami.6b03478
+      \endverb
+    \endentry
+    \entry{Crespo_Quesada_2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=27a9162a94a67ce806d9b767510554a6}{%
+           family={Crespo-Quesada},
+           familyi={C\bibinithyphendelim Q\bibinitperiod},
+           given={Micaela},
+           giveni={M\bibinitperiod}}}%
+        {{hash=eb41a3d30e57af3752771a182a6da293}{%
+           family={Pazos-Out{ó}n},
+           familyi={P\bibinithyphendelim O\bibinitperiod},
+           given={Luis\bibnamedelima M.},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=721432306f49fec248600bc1c6f8e0e0}{%
+           family={Warnan},
+           familyi={W\bibinitperiod},
+           given={Julien},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7afe4c21efc4a8d6d918d72b67bfcbd6}{%
+           family={Kuehnel},
+           familyi={K\bibinitperiod},
+           given={Moritz\bibnamedelima F.},
+           giveni={M\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=15e20bdf1b70289e7f5a29b1e4d81247}{%
+           family={Friend},
+           familyi={F\bibinitperiod},
+           given={Richard\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=3f981c995c9d48e15f2d3ba0aebe12b1}{%
+           family={Reisner},
+           familyi={R\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{549075a7f08fa5d0a90493567c29e4ee}
+      \strng{fullhash}{276d1a0da51e30cac4cbf598eb59b452}
+      \strng{bibnamehash}{549075a7f08fa5d0a90493567c29e4ee}
+      \strng{authorbibnamehash}{549075a7f08fa5d0a90493567c29e4ee}
+      \strng{authornamehash}{549075a7f08fa5d0a90493567c29e4ee}
+      \strng{authorfullhash}{276d1a0da51e30cac4cbf598eb59b452}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Communications}
+      \field{month}{9}
+      \field{number}{1}
+      \field{title}{Metal-encapsulated organolead halide perovskite photocathode for solar-driven hydrogen evolution in water}
+      \field{volume}{7}
+      \field{year}{2016}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1038/ncomms12555
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038%2Fncomms12555
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038%2Fncomms12555
+      \endverb
+    \endentry
+    \entry{Li_2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=9a43b81323779297403fc839edcbaf5f}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhongguo},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=a6fd54e4890ee393000abc231cded9d1}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yubin},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=0d75d058598e4663b3ec74ecc30d7ce5}{%
+           family={Burda},
+           familyi={B\bibinitperiod},
+           given={Clemens},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society ({ACS})}%
+      }
+      \strng{namehash}{d3e3f8a2b3e973afc1b830b042e16576}
+      \strng{fullhash}{c916ddcc3d3315a4a13373c444687d09}
+      \strng{bibnamehash}{c916ddcc3d3315a4a13373c444687d09}
+      \strng{authorbibnamehash}{c916ddcc3d3315a4a13373c444687d09}
+      \strng{authornamehash}{d3e3f8a2b3e973afc1b830b042e16576}
+      \strng{authorfullhash}{c916ddcc3d3315a4a13373c444687d09}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of Physical Chemistry C}
+      \field{month}{1}
+      \field{number}{6}
+      \field{title}{Photoexcited Dynamics in Metal Halide Perovskites: From Relaxation Mechanisms to Applications}
+      \field{volume}{123}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{3255\bibrangedash 3269}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1021/acs.jpcc.8b11347
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021%2Facs.jpcc.8b11347
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021%2Facs.jpcc.8b11347
+      \endverb
+    \endentry
+    \entry{Moniruddin_2018}{article}{}
+      \name{author}{8}{}{%
+        {{hash=68463ccabcaf6ad5dbca9507b5b78cce}{%
+           family={Moniruddin},
+           familyi={M\bibinitperiod},
+           given={Md},
+           giveni={M\bibinitperiod}}}%
+        {{hash=810dc5587af36a687a6c604bcad78ce8}{%
+           family={Ilyassov},
+           familyi={I\bibinitperiod},
+           given={Baurzhan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=da73fa69ab0c1a193b6352c44056e043}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod}}}%
+        {{hash=890c23d941f369a81ee1361f056a91ab}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=404d00e21af4ee06a3008c99838db575}{%
+           family={Serikov},
+           familyi={S\bibinitperiod},
+           given={Timur},
+           giveni={T\bibinitperiod}}}%
+        {{hash=49391535aba3ac0d79a94cc3d73fc242}{%
+           family={Ibrayev},
+           familyi={I\bibinitperiod},
+           given={Niyazbek},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7d3525663b5210ace7e6d266a27e5043}{%
+           family={Asmatulu},
+           familyi={A\bibinitperiod},
+           given={Ramazan},
+           giveni={R\bibinitperiod}}}%
+        {{hash=0824dd167e58618b1d241767bb721e40}{%
+           family={Nuraje},
+           familyi={N\bibinitperiod},
+           given={Nurxat},
+           giveni={N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{6efefd4c58ead474f7a562ba6be57b57}
+      \strng{fullhash}{fff8401159c2aeb624a907a946d0ae2c}
+      \strng{bibnamehash}{6efefd4c58ead474f7a562ba6be57b57}
+      \strng{authorbibnamehash}{6efefd4c58ead474f7a562ba6be57b57}
+      \strng{authornamehash}{6efefd4c58ead474f7a562ba6be57b57}
+      \strng{authorfullhash}{fff8401159c2aeb624a907a946d0ae2c}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Materials Today Energy}
+      \field{month}{3}
+      \field{title}{Recent progress on perovskite materials in photovoltaic and water splitting applications}
+      \field{volume}{7}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{246\bibrangedash 259}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.mtener.2017.10.005
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016%2Fj.mtener.2017.10.005
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016%2Fj.mtener.2017.10.005
+      \endverb
+    \endentry
+    \entry{Zhang_2018}{article}{}
+      \name{author}{7}{}{%
+        {{hash=5196d58c51112aeda09645482cb704dd}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Hefeng},
+           giveni={H\bibinitperiod}}}%
+        {{hash=9ff4b29547ca71e4559aa812d21fe1f0}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Zhou},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=306f61b972c01e5452d64353ce1974d6}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod}}}%
+        {{hash=6b170f4c37010a14987a849eab01fe7b}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod}}}%
+        {{hash=10bba9f4635140033c9201440769d29d}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Weiguang},
+           giveni={W\bibinitperiod}}}%
+        {{hash=49b524b4d1ee835b7dad6c8cff2f5be6}{%
+           family={Zong},
+           familyi={Z\bibinitperiod},
+           given={Xu},
+           giveni={X\bibinitperiod}}}%
+        {{hash=8e6ea9d2aeafe6a7426446dd92acf0ff}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Can},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{8ddda25ab2b54d5faeddfc337b08f0aa}
+      \strng{fullhash}{473f10f28a3ec8dc4a3da7593ee122fb}
+      \strng{bibnamehash}{8ddda25ab2b54d5faeddfc337b08f0aa}
+      \strng{authorbibnamehash}{8ddda25ab2b54d5faeddfc337b08f0aa}
+      \strng{authornamehash}{8ddda25ab2b54d5faeddfc337b08f0aa}
+      \strng{authorfullhash}{473f10f28a3ec8dc4a3da7593ee122fb}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Energy Materials}
+      \field{month}{5}
+      \field{number}{22}
+      \field{title}{A Sandwich-Like Organolead Halide Perovskite Photocathode for Efficient and Durable Photoelectrochemical Hydrogen Evolution in Water}
+      \field{volume}{8}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{1800795}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1002/aenm.201800795
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1002%2Faenm.201800795
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1002%2Faenm.201800795
+      \endverb
+    \endentry
+    \entry{Nam_2018}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5b4f637d7e2a43ba89a4b15c95835d9b}{%
+           family={Nam},
+           familyi={N\bibinitperiod},
+           given={SeongSik},
+           giveni={S\bibinitperiod}}}%
+        {{hash=2308e9a1080bdc92839be890752935c9}{%
+           family={Mai},
+           familyi={M\bibinitperiod},
+           given={Cuc\bibnamedelimb Thi\bibnamedelima Kim},
+           giveni={C\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=6e5805f53d7be46efad7dd2367edcae7}{%
+           family={Oh},
+           familyi={O\bibinitperiod},
+           given={Ilwhan},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society ({ACS})}%
+      }
+      \strng{namehash}{d7ce51e3ea54bf3ef8a855139d1bf94e}
+      \strng{fullhash}{1ad2d79e353853eb8a699fa1b5d7e4ff}
+      \strng{bibnamehash}{1ad2d79e353853eb8a699fa1b5d7e4ff}
+      \strng{authorbibnamehash}{1ad2d79e353853eb8a699fa1b5d7e4ff}
+      \strng{authornamehash}{d7ce51e3ea54bf3ef8a855139d1bf94e}
+      \strng{authorfullhash}{1ad2d79e353853eb8a699fa1b5d7e4ff}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ACS} Applied Materials {\&} Interfaces}
+      \field{month}{4}
+      \field{number}{17}
+      \field{title}{Ultrastable Photoelectrodes for Solar Water Splitting Based on Organic Metal Halide Perovskite Fabricated by Lift-Off Process}
+      \field{volume}{10}
+      \field{year}{2018}
+      \true{nocite}
+      \field{pages}{14659\bibrangedash 14664}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1021/acsami.8b00686
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021%2Facsami.8b00686
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021%2Facsami.8b00686
+      \endverb
+    \endentry
+    \entry{Mu_2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=da54505c845e66f09cfa77f4dd88160d}{%
+           family={Mu},
+           familyi={M\bibinitperiod},
+           given={Yan-Fei},
+           giveni={Y\bibinithyphendelim F\bibinitperiod}}}%
+        {{hash=3fa0b98bdb0330cc0ea22e655fd964c2}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Wen},
+           giveni={W\bibinitperiod}}}%
+        {{hash=ed1887685e8418da4229c9117d6a1d41}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Xiao-Xuan},
+           giveni={X\bibinithyphendelim X\bibinitperiod}}}%
+        {{hash=4f8c909a32c57a4296ceae6ec0cf2d58}{%
+           family={Dong},
+           familyi={D\bibinitperiod},
+           given={Guang-Xing},
+           giveni={G\bibinithyphendelim X\bibinitperiod}}}%
+        {{hash=c5f133678c8bdff0e050e19158f289ed}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Min},
+           giveni={M\bibinitperiod}}}%
+        {{hash=d2f3cdb337516228033c28bd804414a2}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Tong-Bu},
+           giveni={T\bibinithyphendelim B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{0cd80fc9b289051e29f02a410930a192}
+      \strng{fullhash}{2656b55b78979316e5e49b43d7e52ee9}
+      \strng{bibnamehash}{0cd80fc9b289051e29f02a410930a192}
+      \strng{authorbibnamehash}{0cd80fc9b289051e29f02a410930a192}
+      \strng{authornamehash}{0cd80fc9b289051e29f02a410930a192}
+      \strng{authorfullhash}{2656b55b78979316e5e49b43d7e52ee9}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ChemSusChem}}
+      \field{month}{10}
+      \field{number}{21}
+      \field{title}{Water-Tolerant Lead Halide Perovskite Nanocrystals as Efficient Photocatalysts for Visible-Light-Driven {CO} 2 Reduction in Pure Water}
+      \field{volume}{12}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{4769\bibrangedash 4774}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1002/cssc.201902192
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1002%2Fcssc.201902192
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1002%2Fcssc.201902192
+      \endverb
+    \endentry
+    \entry{Tao_2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=7b29cc5f01d86d6776ea05347f0fea80}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Ran},
+           giveni={R\bibinitperiod}}}%
+        {{hash=ca5d82c80e6e3d659b7225a2b839382d}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Zhixia},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=fd7c8c050db796e1de1225e984a0ee96}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Fengyan},
+           giveni={F\bibinitperiod}}}%
+        {{hash=947674a5eefdc4eaadd63461432e6237}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Wencheng},
+           giveni={W\bibinitperiod}}}%
+        {{hash=2c732482fe35d9189bac744943d239a5}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Lin},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Chemical Society ({ACS})}%
+      }
+      \strng{namehash}{66cbc0c1d13bbd29753f9afeb371eb26}
+      \strng{fullhash}{0a36489670e9988f8fbbd2a58d9a107f}
+      \strng{bibnamehash}{0a36489670e9988f8fbbd2a58d9a107f}
+      \strng{authorbibnamehash}{0a36489670e9988f8fbbd2a58d9a107f}
+      \strng{authornamehash}{66cbc0c1d13bbd29753f9afeb371eb26}
+      \strng{authorfullhash}{0a36489670e9988f8fbbd2a58d9a107f}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{ACS} Applied Energy Materials}
+      \field{month}{2}
+      \field{number}{3}
+      \field{title}{Achieving Organic Metal Halide Perovskite into a Conventional Photoelectrode: Outstanding Stability in Aqueous Solution and High-Efficient Photoelectrochemical Water Splitting}
+      \field{volume}{2}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1969\bibrangedash 1976}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1021/acsaem.8b02072
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021%2Facsaem.8b02072
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021%2Facsaem.8b02072
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

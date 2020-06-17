@@ -140,8 +140,6 @@ INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
-INPUT output.aux
-INPUT output.aux
 OUTPUT output.aux
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
