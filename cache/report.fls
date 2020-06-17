@@ -161,6 +161,9 @@ OUTPUT report.out
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/latex/biblatex/lbx/english.lbx
 OUTPUT report.bcf
+INPUT report.bbl
+INPUT report.bbl
+INPUT report.bbl
 INPUT /home/vishnu/.texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /home/vishnu/.texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -195,6 +198,7 @@ INPUT /home/vishnu/.texlive/2020/texmf-dist/fonts/tfm/adobe/times/ptmr8c.tfm
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 INPUT /home/vishnu/.texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+INPUT ./9Capacitance9.pdf
 INPUT report.aux
 INPUT ./report.out
 INPUT ./report.out

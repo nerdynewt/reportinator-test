@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.13)  15 JUN 2020 20:05
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2020.5.13)  17 JUN 2020 18:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -636,8 +636,8 @@ Package biblatex Info: Automatic encoding selection.
 \openout3 = `report.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'report.bbl' not found.
-No file report.bbl.
+Package biblatex Info: ... file 'report.bbl' found.
+(./report.bbl)
 Package biblatex Info: Reference section=0 on input line 3.
 Package biblatex Info: Reference segment=0 on input line 3.
 
@@ -742,40 +742,40 @@ LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
 
 
 LaTeX Font Warning: Font shape `TU/ptm/m/sc' undefined
-(Font)              using `TU/ptm/m/n' instead on input line 14.
+(Font)              using `TU/ptm/m/n' instead on input line 15.
 
 
 (/home/vishnu/.texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 33--41
+Underfull \hbox (badness 10000) in paragraph at lines 34--42
 
  []
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 60.
+(Font)              using `TU/ptm/bx/n' instead on input line 61.
 
 
-LaTeX Warning: Reference `fig:image' on page 2 undefined on input line 60.
-
-
-LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 60.
-
-
-LaTeX Warning: Reference `fig:alpha' on page 2 undefined on input line 60.
+LaTeX Warning: Reference `fig:image' on page 2 undefined on input line 61.
 
 
 LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
-(Font)              using `TU/ptm/bx/n' instead on input line 60.
+(Font)              using `TU/ptm/bx/n' instead on input line 61.
 
 
-LaTeX Warning: Reference `tbl:alpha' on page 2 undefined on input line 60.
+LaTeX Warning: Reference `fig:alpha' on page 2 undefined on input line 61.
 
 
-Overfull \hbox (21.47504pt too wide) detected at line 65
+LaTeX Font Warning: Font shape `TU/ptm/b/n' undefined
+(Font)              using `TU/ptm/bx/n' instead on input line 61.
+
+
+LaTeX Warning: Reference `tbl:alpha' on page 2 undefined on input line 61.
+
+
+Overfull \hbox (21.47504pt too wide) detected at line 66
 \OML/cmm/m/it/10 EMF \OT1/cmr/m/n/10 = [](\OMS/cmsy/m/n/10  \OML/cmm/m/it/10 z[
 ] \OT1/cmr/m/n/10 + 0\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 5 \OMS/cmsy/m/n/10  \OM
 L/cmm/m/it/10 gt[]\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10  \OT1/cmr/m/n/10 (\OML/cm
@@ -787,58 +787,24 @@ t/10 gt[]\OT1/cmr/m/n/10 )[])[] \OMS/cmsy/m/n/10  \OML/cmm/m/it/10 gt
 [2
 
 ]
-
-LaTeX Warning: File `./9Capacitance9.pdf' not found on input line 85.
-
-! Unable to load picture or PDF file './9Capacitance9.pdf'.
-<to be read again> 
-                   }
-l.85 ...width = \columnwidth]{./9Capacitance9.pdf}
-                                                  
-The requested image couldn't be read because
-it was not a recognized image format.
-
-
-! Package graphics Error: Division by 0.
-
-See the graphics package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.85 ...width = \columnwidth]{./9Capacitance9.pdf}
-                                                  
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
 File: ./9Capacitance9.pdf Graphic file (type pdf)
 <use ./9Capacitance9.pdf>
-! Unable to load picture or PDF file './9Capacitance9.pdf'.
-<to be read again> 
-                   \GPT@clipend 
-l.85 ...width = \columnwidth]{./9Capacitance9.pdf}
-                                                  
-The requested image couldn't be read because
-it was not a recognized image format.
-
-! You can't use `macro parameter character #' in vertical mode.
-l.89 #
-       Graphs
-Sorry, but I'm not programmed to handle this case;
-I'll just pretend that you didn't ask for it.
-If you're in the wrong mode, you might be able to
-return to the right one by typing `I}' or `I$' or `I\par'.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 105.
 [3
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 105.
 (./report.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 112.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
-Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 084697E099434E63749F380F2CA4D78D;530.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 105.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 105.
+
+Package rerunfilecheck Warning: File `report.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `report.out':
+(rerunfilecheck)             Before: CD2B407F2623527FCB70397119BFEC94;509
+(rerunfilecheck)             After:  084697E099434E63749F380F2CA4D78D;530.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -848,13 +814,13 @@ LaTeX Warning: There were undefined references.
 Package logreq Info: Writing requests to 'report.run.xml'.
 \openout1 = `report.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 105.
  ) 
 Here is how much of TeX's memory you used:
- 17559 strings out of 479294
- 286883 string characters out of 5879577
- 952853 words of memory out of 5000000
- 34960 multiletter control sequences out of 15000+600000
+ 17509 strings out of 479294
+ 286177 string characters out of 5879577
+ 952832 words of memory out of 5000000
+ 34935 multiletter control sequences out of 15000+600000
  539155 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  48i,7n,45p,955b,745s stack positions out of 5000i,500n,10000p,200000b,80000s

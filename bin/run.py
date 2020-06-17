@@ -82,6 +82,7 @@ os.system(pythonpath+" "+ configparse.scriptmatcher("Footer")+ " --config " + co
 # Copying files back and compiling
 # shutil.copytree(cache_dir, path)
 copy_tree(cache_dir, path)
+shutil.rmtree(path+"/csvs", ignore_errors=True, onerror=None)
 # shutil.copy(cfg["cache_dir"]+"/output.tex", path+"/report.tex")
 # shutil.copy(cfg["cache_dir"]+"/output.bib", path+"/output.bib")
 shutil.copy(configdir+"/layouts/"+documentstyle+".cls", path+"/"+documentstyle+".cls")

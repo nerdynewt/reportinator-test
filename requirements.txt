@@ -5,4 +5,3 @@ git+https://github.com/olivierverdier/pydflatex#egg=pydflatex
 blessings
 doi2bib
 ruamel.yaml
-yaml
