@@ -1,11 +1,11 @@
-name:
-affiliation:
+name: Vishnu
+affiliation: NISER
 style: double
 
-reconfig: True 
+reconfig: False
 
 # Please do not change manually
-cache_dir:
-install_dir:
-source_dir:
+cache_dir: /home/vishnu/newrep/cache
+install_dir: /home/vishnu/newrep/share
+source_dir: /home/vishnu/newrep
 installed: False

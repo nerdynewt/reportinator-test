@@ -25,4 +25,4 @@ fi
 cp -r share/* ~/.local/share/reportinator/
 cp -r config/* ~/.config/reportinator
 
-python setup.py --installed "$HOME/.cache/reportinator" "$HOME/.local/share/reportinator" "$PWD"
+python setup.py --cache "$HOME/.cache/reportinator" --installed "$HOME/.local/share/reportinator" --source "$PWD"

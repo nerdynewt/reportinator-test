@@ -40,7 +40,6 @@ if not config["installed"]:
     config["install_dir"]=wd+"/share"
     config["source_dir"]=wd
 
-config["reconfig"]=False
 
 with open(configpath, "w") as f:
     yaml.dump(config, f)

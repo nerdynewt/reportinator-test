@@ -1,0 +1,9 @@
+affiliation: NISER
+name: Vishnu Namboodiri
+reconfig: false
+style: double
+test: ungabunga
+
+cache_dir : /home/vishnu/newrep/cache
+install_dir: /home/vishnu/newrep/share
+source_dir: /home/vishnu/newrep

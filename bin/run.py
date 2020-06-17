@@ -30,8 +30,8 @@ cfg=configparse.cfg # A dictionary object containing configuration
 
 if cfg["reconfig"] or args.reconfig:
     print("Performing reconfiguration setup...")
-    os.system(pythonpath+" setup.py")
-    # os.system(pythonpath+" install.py")
+    os.system(pythonpath+" "+BIN_DIR+"/setup.py")
+    os.system(pythonpath+" install.py")
 
 documentstyle = cfg["style"]
 cache_dir=cfg["cache_dir"]
