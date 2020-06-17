@@ -32,6 +32,8 @@ if args.source:
 if args.installed:
     config["install_dir"]=args.installed
     config["installed"]=True
+    with open(configpath, "w") as f:
+        yaml.dump(config, f)
     exit()
 
 name = input("Enter name: ")
