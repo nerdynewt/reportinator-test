@@ -1,15 +1,35 @@
+This is a restructured version of [spandanupam](https://github.com/spandananupam)'s project of the same name. This is a WIP.
+
+
 # Aim of the Project:
 To make LaTeX reports easily from markdowns, containing the section data and marked CSVs. Please look at the example first, before doing anything.
 
 ## Installation:
-Run `packages.sh` by running, and giving in your sudo password
+
+### Linux/MacOS
+
+Clone the repo:
 ```shell
-bash packages.sh
+git clone "https://github.com/nerdynewt/reportinator-test"
 ```
-Then clone the repo:
+
+Run the setup script:
 ```shell
-git clone "https://github.com/spandananupam/reportinator"
+python3 setup.py
 ```
+
+Optionally, if you have a POSIX shell, install the code system-wide (not recommended, unstable):
+
+```shell
+bash install.sh
+```
+
+### Windows
+
+- Install [Gentoo](https://wiki.installgentoo.com/index.php/Main_Page)
+- Follow steps under the previous section
+
+
 **For windows installation, please install Python 3.4+ and LaTeX**
 ## Basic Usage:
 This needs python3.4+, nothing below is supported. FFS please update your python.
